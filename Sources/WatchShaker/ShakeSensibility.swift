@@ -18,5 +18,5 @@ public enum ShakeSensibility: Double {
     case shakeSensibilitySoft = 0.7
     case shakeSensibilityNormal = 1.0
     case shakeSensibilityHard = 1.2
-    case shakeSensibilityHardest = 2.0
+    case shakeSensibilityHardest = 3.0
 }
